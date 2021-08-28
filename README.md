@@ -1,10 +1,12 @@
 # About the App
 
-Pizza
+A front end Web app using React, Styled Components and Hooks, fully responsive, that can be used for a restaurant food ordering e-commerce.
 
 ## Technologies
 
 - React
+- Styled Components
+- Hooks
 
 ## Screenshots
 
